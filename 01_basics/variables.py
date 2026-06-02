@@ -1,5 +1,5 @@
 name = "Aryan"
 age = 20
 
-print(name)
-print(age)
+print("Name:", name)
+print("Age:", age)
